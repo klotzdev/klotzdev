@@ -1,49 +1,137 @@
 <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Rodrigo+Ferreira+%F0%9F%91%8B;Fullstack+Developer;Building+digital+experiences)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Rodrigo%20Ferreira%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
-```js
+```javascript
 const rodrigo = {
     pronouns: "he" | "him",
     location: "Brazil 🇧🇷",
     currentFocus: "Building products, not just features",
-    funFact: "Making the web a bit better",
+    funFact: "Making the web a bit better"
 };
 ```
 
-<p align="center">
-Fullstack developer from Brazil. I build web apps, automate stuff, and occasionally make Discord bots. Mostly working with JavaScript/TypeScript and whatever gets the job done.
-</p>
+<br>
 
-<br/>
-
+<div align="center">
+  
 ## ⚡ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" /><br/>
-<img src="https://skillicons.dev/icons?i=vue,tailwind,nodejs,webpack,bash,mongodb" /><br/>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,aws,discordjs" />
-</p>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
+<br>React Native
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+<br>Vue.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br>Tailwind
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" />
+<br>Webpack
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+<br>Bash
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="Puppeteer" width="48" height="48" />
+<br>Puppeteer
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord.js" />
+<br>Discord.js
+</td>
+</tr>
+</table>
 
-<br/>
+</div>
 
-## 📊 GitHub Stats
+<br>
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=klotzdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=klotzdev&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=klotzdev&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
-</p>
+<br>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=klotzdev&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" />
-</p>
+</div>
 
-<p align="center"><i>"Good code speaks for itself"</i></p>
+<br>
+
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=klotzdev&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br>
+
+*"Good code speaks for itself"*
+
+</div>
