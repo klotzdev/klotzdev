@@ -128,10 +128,6 @@ const rodrigo = {
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=klotzdev&color=A855F7&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br>
-
 *"Good code speaks for itself"*
 
 </div>
