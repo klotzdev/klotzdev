@@ -42,16 +42,6 @@ Fullstack developer from Brazil. I build web apps, automate stuff, and occasiona
 
 <br/>
 
-## 🔗 Links
-
-<p align="center">
-<a href="https://tsvn.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Website-tsvn.vercel.app-8A2BE2?style=for-the-badge" /></a>
-<a href="https://nashdev.site" target="_blank"><img src="https://img.shields.io/badge/Site-nashdev.site-FF8C00?style=for-the-badge" /></a>
-<a href="https://discord.com/users/1608784753334468161" target="_blank"><img src="https://img.shields.io/badge/Discord-klotzdev-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
-
-<br/>
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=klotzdev&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" />
 </p>
